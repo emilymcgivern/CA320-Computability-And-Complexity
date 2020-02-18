@@ -1,5 +1,5 @@
 # Computability and Complexity
-This repo contains the work carried out as part of CA320: Computability and Complexity
+This repo contains the work carried out as part of CA320: Computability and Complexity. I achieved 100% in this assignment. 
 
 The following is the assignment spec for the module.
  
